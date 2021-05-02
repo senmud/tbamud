@@ -262,24 +262,24 @@ int use_new_socials = YES;
 
 const char *MENU =
 "\r\n"
-"Welcome to tbaMUD!\r\n"
-"\t(0\t)) Exit from tbaMUD.\r\n"
-"\t(1\t)) Enter the game.\r\n"
-"\t(2\t)) Enter description.\r\n"
-"\t(3\t)) Read the background story.\r\n"
-"\t(4\t)) Change password.\r\n"
-"\t(5\t)) Delete this character.\r\n"
+"--一入江湖岁月催--\r\n"
+"\t(0\t)) 退出江湖\r\n"
+"\t(1\t)) 进入江湖\r\n"
+"\t(2\t)) 更新个人介绍\r\n"
+"\t(3\t)) 了解江湖\r\n"
+"\t(4\t)) 修改密码\r\n"
+"\t(5\t)) 删除角色，江湖再见\r\n"
 "\r\n"
-"   Make your choice: ";
+"  上仙请选择 : ";
 
 const char *WELC_MESSG =
 "\r\n"
-"Welcome to tbaMUD!  May your visit here be... Enlightening"
+"天下风云出我辈，一入江湖岁月催！上仙一路小心～～"
 "\r\n\r\n";
 
 const char *START_MESSG =
-"Welcome.  This is your new tbaMUD character!  You can now earn gold,\r\n"
-"gain experience, find weapons and equipment, and much more -- while\r\n"
+"这里是上古江湖，在这个世界你可以修仙、行贾、出将、入相。。。\r\n"
+"位极人臣、富甲一方，折戟沉沙，功败垂成，全在上仙一念之间\r\n"
 "meeting people from around the world!\r\n";
 
 /* AUTOWIZ OPTIONS */
